@@ -52,7 +52,7 @@ int main(int argc, char ** argv){
 
     int n = sizeof(val2)/sizeof(val2[0]);
 
-    cout << "Digite o peso: que a mochila suporta";
+    cout << "Digite o peso que a mochila suporta";
     cin >> peso ;
 
     cout << "Se o Peso permitido fo " << peso << " maior valor possivel é ";
